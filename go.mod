@@ -1,4 +1,4 @@
-module example/emoji
+module example/solution
 
 go 1.18
 
